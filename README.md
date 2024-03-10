@@ -1,6 +1,6 @@
-# Django React CRUD
+# App de Tareas
 
-This is a simple Django React CRUD application.
+
 
 # Environment variables
 
